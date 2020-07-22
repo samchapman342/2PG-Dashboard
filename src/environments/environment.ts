@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   endpoint: 'http://localhost:3000/api',
-  discordInvite: 'https://discord.gg/24tycau',
+  discordInvite: 'https://discord.gg/4uJDyR',
   githubURL: 'https://github.com/theADAMJR/2PG',
   stripePublicKey: 'pk_test_rjQKo5c9pcHvDFjFe1mfdKib00Es3eJ831',
   version: 'v0.2.0b',
   test: {
-    guildId: '685862664223850497'
+    guildId: '735249291282743417'
   }
 };
 
